@@ -1,0 +1,28 @@
+# AI Agent Progress Display Demo - Dependencies
+
+# OpenAI SDK
+openai>=1.0.0
+
+# Azure AI SDKs
+azure-ai-projects>=1.0.0b1
+azure-ai-inference>=1.0.0b1
+azure-identity>=1.14.0
+
+# Microsoft Agent Framework
+semantic-kernel>=1.0.0
+
+# Jupyter
+jupyter>=1.0.0
+notebook>=7.0.0
+ipywidgets>=8.0.0
+ipython>=8.0.0
+
+# Progress & Display
+tqdm>=4.65.0
+rich>=13.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+
+# Optional: Visualization
+matplotlib>=3.7.0
